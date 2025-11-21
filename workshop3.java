@@ -5,8 +5,8 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class workshop3
+public class workshop3 
 {
     // instance variables - replac
-    }
+    int a = 10;
 }
